@@ -1,7 +1,7 @@
 .vfrc-header {
   background: #222223;
 }
-.vfrc-assistant-info {
+.vfrc-assistant-info .vfrc-assistant-info--title {
   color: #FFF;
 }
 .vfrc-chat--dialog {
@@ -13,16 +13,18 @@
 }
 .vfrc-footer {
   background: #1A1A1F;
-  border-radius: '0px';
+  border-radius: none;
 }
 .vfrc-chat-input .vfrc-input {
   background: #1A1A1F;
-  color: #FFF;
 }
 .vfrc-chat-input .vfrc-input .vfrc-chat-input--button {
   background: #1A1A1F;
 }
 .vfrc-chat-input .vfrc-input::placeholder {
+  color: #FFF;
+}
+.vfrc-chat-input .vfrc-input {
   color: #FFF;
 }
 .vfrc-user-response--row .vfrc-message {
