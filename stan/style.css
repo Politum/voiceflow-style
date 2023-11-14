@@ -1,6 +1,9 @@
 .vfrc-header {
   background: #222223;
 }
+.vfrc-assistant-info {
+  color: #FFF;
+}
 .vfrc-chat--dialog {
   background: #222223;
 }
@@ -10,11 +13,18 @@
 }
 .vfrc-footer {
   background: #1A1A1F;
+  border-radius: '0';
 }
-.vfrc-chat-input {
+.vfrc-chat-input .vfrc-input {
   background: #1A1A1F;
+}
+.vfrc-chat-input .vfrc-input::placeholder {
+  color: #FFF;
 }
 .vfrc-user-response--row .vfrc-message {
   background: #2C2423;
   color: #E3581E;
+}
+.vfrc-footer .vfrc-bubble {
+  background: #E3581E;
 }
