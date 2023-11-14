@@ -17,14 +17,12 @@
 }
 .vfrc-chat-input .vfrc-input {
   background: #1A1A1F;
+  color: #FFF;
 }
-.vfrc-chat-input .vfrc-input .vfrc-chat-input--button {
+.vfrc-chat-input .vfrc-chat-input--button {
   background: #1A1A1F;
 }
 .vfrc-chat-input .vfrc-input::placeholder {
-  color: #FFF;
-}
-.vfrc-chat-input .vfrc-input {
   color: #FFF;
 }
 .vfrc-user-response--row .vfrc-message {
