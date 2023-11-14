@@ -13,13 +13,13 @@
 }
 .vfrc-footer {
   background: #1A1A1F;
-  border-radius: none;
+  border-radius: '0px';
 }
 .vfrc-chat-input .vfrc-input {
   background: #1A1A1F;
   color: #FFF;
 }
-.vfrc-chat-input .vfrc-chat-input--button {
+.vfrc-chat-input--button {
   background: #1A1A1F;
 }
 .vfrc-chat-input .vfrc-input::placeholder {
