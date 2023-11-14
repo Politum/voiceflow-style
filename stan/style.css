@@ -1,0 +1,20 @@
+.vfrc-header {
+  background: #222223;
+}
+.vfrc-chat--dialog {
+  background: #222223;
+}
+.vfrc-system-response .vfrc-message {
+  background: #1A1A1F;
+  color: #FFF;
+}
+.vfrc-footer {
+  background: #1A1A1F;
+}
+.vfrc-chat-input {
+  background: #1A1A1F;
+}
+.vfrc-user-response--row .vfrc-message {
+  background: #2C2423;
+  color: #E3581E;
+}
